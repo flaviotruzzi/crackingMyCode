@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Design an algorithm and write code to remove the duplicate chracters in a
+# string without using any additional buffer.
+
 # with buffer and unordered
 s = 'aabbccd'
 s = "".join(set(s))

@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Write a method to decide if two strings are anagrams or not.
+
 #check if two strings are anagrams
 # aba -> aab
 

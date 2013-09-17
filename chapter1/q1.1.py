@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Implement and algorithm to determine if a string has all unique character.
+# What if you can not use additional data structures?
+
 import sys
 from collections import Counter
 

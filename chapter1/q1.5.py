@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Write a mathod to replace all spaces in a string with '%20'.
+
 def replaceSpaces(s):
   return s.replace(' ','%20')
 

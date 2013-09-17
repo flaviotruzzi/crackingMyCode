@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Write code to reverse a C-Style String
+
 string = "abcdef\0"
 
 result = string[:-1][::-1] + '\0'
